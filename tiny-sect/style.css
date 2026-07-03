@@ -1,1 +1,1 @@
-*{margin:0;padding:0;box-sizing:border-box}body{overflow:hidden;background:#d8ead1;font-family:sans-serif}#topbar{position:fixed;top:0;left:0;right:0;height:48px;display:flex;gap:20px;align-items:center;padding:0 16px;background:#fff;border-bottom:1px solid #ccc}#panel{position:fixed;left:0;right:0;bottom:0;height:120px;background:#fff;border-top:1px solid #ccc;padding:12px}#gameCanvas{display:block}
+html,body{margin:0;height:100%}canvas{display:block;width:100%;height:100%;background:#cfe8b6}
